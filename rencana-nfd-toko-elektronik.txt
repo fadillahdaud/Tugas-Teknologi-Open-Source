@@ -2,3 +2,4 @@ rencana menjual barang elektronik
 - menjual televisi
 - menjual mesin cuci
 - menjual kipas angin 
+- menjual alat musik elektronik  
